@@ -13,7 +13,7 @@ The program() function has following algorithm: It get all input variables from 
 2. For each zombie position found or given via input file:
     1. Get list of moves made by zombie
     2. Store the final position of zombie
-    3. Check if zombie founc any creatures in the path
+    3. Check if zombie found any creatures in the path
         1. If found mark the creature as found, store the path as new zombie and increase zombie score by 1
         2. If not found finish code execution
 
