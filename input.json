@@ -1,0 +1,10 @@
+{
+    "number_of_dimensions": 4,
+    "moves": "DLUURRRDU",
+    "zombie_start_position": "(2,1)", 
+    "creatures_position": [
+        "(0,1)",
+        "(1,2)",
+        "(3,1)"
+    ]
+}
